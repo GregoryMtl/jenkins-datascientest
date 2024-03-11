@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: GregoryMtl/jenkins-datascientest # replace this yourdocker_hub_id/datascientestapi
+  repository: gregoryp/datascientestapi # replace this yourdocker_hub_id/datascientestapi
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
